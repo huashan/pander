@@ -1,0 +1,11 @@
+\.git.*
+.travis.yml
+.editorconfig
+Makefile
+TODO.md
+^.*\.Rproj$
+^\.Rproj\.user$
+\.lintr
+\.gh-pages-update.sh
+pull.sh
+\.brewer.R
